@@ -1,3 +1,4 @@
+/* remove default browser-enforced styles, set default CSS values to all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,22 +9,23 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* apply font size and line h1 up horizontally*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* apply different color to "seo" class in h1 */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +33,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* */
 .header div ul {
     list-style-type: none;
 }
-
+/* align unordered list horizontally */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* */
 .hero {
     height: 800px;
     width: 100%;
