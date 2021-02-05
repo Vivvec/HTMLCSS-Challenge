@@ -11,5 +11,5 @@ This repository was created to refactor the code of Horiseon's website to meet a
 *CSS
 
 ## Link to Our Live Website
-https://vivvec.github.io/Refactor-Project-Horiseon/
+[Click here to goto the live website](https://vivvec.github.io/Refactor-Project-Horiseon/)
 
