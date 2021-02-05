@@ -5,10 +5,10 @@ This repository was created to refactor the code of Horiseon's website to meet a
 
 # Horiseon Website
 
-# Built with
+# Built With
 *HTML
 *CSS
 
-# Link To Our Live Website
-
+# Link to Our Live Website
+https://vivvec.github.io/Refactor-Project-Horiseon/
 
