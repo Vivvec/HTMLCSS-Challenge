@@ -1,14 +1,14 @@
 # Refactor Project for Horiseon
 
-# Overview
+## Overview
 This repository was created to refactor the code of Horiseon's website to meet accessability standards and adjust disorganized code.
 
-# Horiseon Website
+## Horiseon Website
 
-# Built With
+## Built With
 *HTML
 *CSS
 
-# Link to Our Live Website
+## Link to Our Live Website
 https://vivvec.github.io/Refactor-Project-Horiseon/
 
